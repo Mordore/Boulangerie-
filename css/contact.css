@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(16 14 16);
+}
+h1,h2,h3{
+    color: white;
+}
+.main{
+    width: 100%;
+    /* position: absolute; */
+    height: 50%;
+    flex-direction: column;
+    margin: 2%;
+    margin-top: 25%;
+    /* top: 10%; */
+    display: flex;
+}

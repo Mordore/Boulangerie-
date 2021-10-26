@@ -1,0 +1,49 @@
+button {
+    display: inline-block;
+    background-color: #ff9800;
+    border-radius: 41px;
+    border: 4px double #cccccc;
+    color: #eeeeee;
+    position: absolute;
+    text-align: center;
+    top: 25%;
+    left: 25%;
+    font-size: 28px;
+    padding: 20px;
+    width: 200px;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+    }
+.contact_butt{
+    display: inline-block;
+    background-color: #ff9800;
+    border-radius: 41px;
+    border: 4px double #cccccc;
+    color: #eeeeee;
+    position: absolute;
+    text-align: center;
+    top: 40%;
+    left: 25%;
+    font-size: 28px;
+    padding: 20px;
+    width: 153px;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+}
+.contact_butt:hover{
+    background-color: rgb(179, 243, 179);
+}
+    button:hover {
+        background-color: green;
+        }
+body{
+    background-color: #71e7f7;
+}
